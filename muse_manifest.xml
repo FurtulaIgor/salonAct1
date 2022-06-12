@@ -1,0 +1,116 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.welearn2fly.com" resolutions="1x" timestamp="1443511234263">
+  <folder name="css">
+    <file name="site_global.css" crc="513919863"/>
+    <file name="sample-news.css" crc="60734642" ref="sample-news"/>
+    <file name="iefonts_sample-news.css" crc="178928131" ref="sample-news"/>
+    <file name="index.css" crc="300458270" ref="index"/>
+    <file name="iefonts_index.css" crc="125545276" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="4005222151"/>
+    <file name="fontawesome-webfont.eot" crc="69270328"/>
+    <file name="fontawesome-webfont.svg" crc="347027170"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="tablet>index:tablet>sample-news:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>sample-news:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>sample-news"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index:phone>sample-news"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:tablet>index:index"/>
+    <file name="form-u31717.php" crc="3850997407" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="form-u31315.php" crc="519738819" ref="tablet>index"/>
+    <file name="form-u30991.php" crc="4291531091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_3.png" crc="172529337" seo="true" ref="phone>index:phone>sample-news:tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="menu icon_1.png" crc="3980471222" ref="phone>index:phone>sample-news"/>
+    <file name="close icon_2.png" crc="277449063" ref="phone>index:phone>sample-news"/>
+    <file name="hover1.jpg" crc="381881324" ref="tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="line 2.png" crc="4018456622" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="line 1.png" crc="4033382895" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u31737-17.png" crc="506541795" ref="phone>index"/>
+    <file name="u31737-17-r.png" crc="3768360655" ref="phone>index"/>
+    <file name="u31737-17-m.png" crc="3768360655" ref="phone>index"/>
+    <file name="u31737-17-fs.png" crc="506541795" ref="phone>index"/>
+    <file name="u31335-17.png" crc="506541795" ref="tablet>index"/>
+    <file name="u31335-17-r.png" crc="3768360655" ref="tablet>index"/>
+    <file name="u31335-17-m.png" crc="3768360655" ref="tablet>index"/>
+    <file name="u31335-17-fs.png" crc="506541795" ref="tablet>index"/>
+    <file name="logo_4.png" crc="4022555396" seo="true" ref="tablet>index:tablet>sample-news:index:sample-news"/>
+    <file name="u31007-17.png" crc="506541795" ref="index"/>
+    <file name="u31007-17-r.png" crc="3768360655" ref="index"/>
+    <file name="u31007-17-m.png" crc="3768360655" ref="index"/>
+    <file name="u31007-17-fs.png" crc="506541795" ref="index"/>
+    <file name="s1.jpg" crc="4175550408" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="s2.jpg" crc="525613710" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="a1-u29970-fr.jpg" crc="40226231" ref="phone>index:tablet>index:index"/>
+    <file name="a2-u29974-fr.jpg" crc="430542344" ref="phone>index:tablet>index:index"/>
+    <file name="a2.jpg" crc="397006688" ref="phone>index:tablet>index:index"/>
+    <file name="g1.jpg" crc="4078372771" ref="phone>index:tablet>index:index"/>
+    <file name="g3.jpg" crc="4158178475" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="g4.jpg" crc="337333326" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="g5.jpg" crc="3874251326" ref="phone>index:tablet>index:index"/>
+    <file name="g6.jpg" crc="497367853" ref="phone>index:tablet>index:index"/>
+    <file name="g2.jpg" crc="445558524" seo="true" ref="phone>index:tablet>index"/>
+    <file name="i2.jpg" crc="46981689" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="i3.jpg" crc="4059692287" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="g1174x183.jpg" crc="4269725825" seo="true" ref="phone>index"/>
+    <file name="g2174x183.jpg" crc="3986854078" seo="true" ref="phone>index"/>
+    <file name="g3174x183.jpg" crc="4121365317" seo="true" ref="phone>index"/>
+    <file name="g4174x183.jpg" crc="124758431" seo="true" ref="phone>index"/>
+    <file name="i2174x183.jpg" crc="103147105" seo="true" ref="phone>index"/>
+    <file name="i3174x183.jpg" crc="3794118702" seo="true" ref="phone>index"/>
+    <file name="i1.jpg" crc="241134189" ref="phone>index:tablet>index:index" seo="true"/>
+    <file name="a1.jpg" crc="389815757" seo="true" ref="tablet>index"/>
+    <file name="i4.jpg" crc="325574905" seo="true" ref="tablet>index:index"/>
+    <file name="a1222x233.jpg" crc="3961753017" seo="true" ref="tablet>index"/>
+    <file name="a2222x233.jpg" crc="4170500286" seo="true" ref="tablet>index"/>
+    <file name="g3222x233.jpg" crc="3940519382" seo="true" ref="tablet>index"/>
+    <file name="g4222x233.jpg" crc="3928475934" seo="true" ref="tablet>index"/>
+    <file name="i4222x233.jpg" crc="185205260" seo="true" ref="tablet>index"/>
+    <file name="g2222x233.jpg" crc="4171809073" seo="true" ref="tablet>index"/>
+    <file name="p1.jpg" crc="112951930" ref="index"/>
+    <file name="g3-u28587-fr.jpg" crc="533299058" ref="sample-news"/>
+    <file name="g4-u28588-fr.jpg" crc="11975605" ref="sample-news"/>
+    <file name="g1-u28589-fr.jpg" crc="4185974801" ref="sample-news"/>
+    <file name="about1-u29989-fr.jpg" crc="101287624" ref="phone>index"/>
+    <file name="n3.jpg" crc="4009214885" ref="phone>sample-news:tablet>sample-news:sample-news"/>
+    <file name="about1.jpg" crc="3306175" ref="tablet>index:index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="sample-news.css" crc="365372756" ref="tablet>sample-news"/>
+      <file name="iefonts_sample-news.css" crc="480201644" ref="tablet>sample-news"/>
+      <file name="index.css" crc="216803945" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="59013985" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="160904589" seo="true" mt="1443510885251" redirect="true"/>
+    <file name="sample-news.html" crc="4236208883" seo="true" mt="1443511127513" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="sample-news.css" crc="381388318" ref="phone>sample-news"/>
+      <file name="iefonts_sample-news.css" crc="3806104024" ref="phone>sample-news"/>
+      <file name="index.css" crc="430087907" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4097001632" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4133452977" seo="true" mt="1443510885248" redirect="true"/>
+    <file name="sample-news.html" crc="4013660984" seo="true" mt="1443511207580" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4107108791" seo="true" mt="1443510885249" redirect="true"/>
+  <file name="sample-news.html" crc="4164427223" seo="true" mt="1443511127511" redirect="true"/>
+</manifest>
