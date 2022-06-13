@@ -50,7 +50,7 @@
 	z-index: 422;
 	height: 78px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #000000;
 }
 
 #u31137-bw
@@ -100,7 +100,7 @@
 	width: 126px;
 	min-height: 18px;
 	background-color: transparent;
-	color: transparent;
+	color: #cccccc;
 	line-height: 16px;
 	text-align: left;
 	letter-spacing: 0px;
@@ -134,7 +134,7 @@
 	width: 99px;
 	min-height: 18px;
 	background-color: transparent;
-	color: transparent;
+	color: #cccccc;
 	line-height: 16px;
 	text-align: left;
 	letter-spacing: 0px;
