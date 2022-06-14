@@ -3827,7 +3827,7 @@
 	width: 50px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #D5D5D5;
+	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 13px;
 	margin-bottom: -1px;
@@ -3852,6 +3852,7 @@
 	margin-right: -10000px;
 	margin-top: 13px;
 	left: 2px;
+	display: none;
 }
 
 #buttonu30752
@@ -3893,7 +3894,7 @@
 	width: 50px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #D5D5D5;
+	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 13px;
 	margin-bottom: -1px;
@@ -3925,6 +3926,7 @@
 	margin-right: -10000px;
 	margin-top: 13px;
 	left: 2px;
+	display: none;
 }
 
 #pu30745
