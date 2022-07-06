@@ -2694,6 +2694,16 @@
 	min-height: 1193.6187500000015px;
 }
 
+#u31310_img {
+    z-index: 327;
+    width: 250px;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 75px;
+    left: 3px;
+}
+
 #u31310
 {
 	z-index: 327;
